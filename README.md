@@ -26,3 +26,7 @@ Once downloaded, move `Cryptopia.lua` to your MoneyMoney Extensions folder.
 
 Add a new account (type "Cryptopia Account") and use your Cryptopia API key as username and your Cryptopia API secret as password.
 
+#
+
+based on 
+https://github.com/yoyostile/moneymoney-binance
