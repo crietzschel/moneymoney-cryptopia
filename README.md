@@ -4,7 +4,7 @@ Fetches balances from cryptopia.co.nz API and returns them as securities.
 Prices in EUR from cryptocompare.com.
 
 Requirements:
-* MoneyMoney v2.3.5
+**Note:** This extension requires MoneyMoney **Version 2.3.4** or newer.
 
 ## Extension Setup
 
